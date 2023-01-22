@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mazen Tohari
 - 👀 I’m interested in Game Development/Artificial Intelligence/Software Engineering.
-- 🌱 I’m currently learning C++ after that I will move to graphics API's DirectX 11/12,OpenGL 4.
+- 🌱 I’m currently learning Python and practicing Game Development with unity. 
 - 💞️ I am looking forward to work and collaborate with developers and companies to learn, help and gain experience from them.
 - 📫 You can reach me on my Gmail (mazentohari319@gmail.com).
