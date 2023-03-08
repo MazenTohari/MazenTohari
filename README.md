@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mazen Tohari
+- 👋 Hi, I’m Mazen Tawhari
 - 👀 I’m interested in Game Development/Artificial Intelligence/Software Engineering.
 - 🌱 I’m currently learning Python and practicing Game Development with unity. 
 - 💞️ I am looking forward to work and collaborate with developers and companies to learn, help and gain experience from them.
